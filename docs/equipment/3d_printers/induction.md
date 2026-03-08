@@ -9,7 +9,7 @@
 ##### Use isopropyl alcohol to clean anything related to the 3D-Printers
 
 - Ensure extruder tip is clean
-- Ensure bed is clean
+- Ensure bed is clean and dry (use isopropyl alcohol or soap and water, ensuring any cleaning is done away from the printer)
 - Check cleanliness and power status.
 
 ## Loading/Unloading Filament:
@@ -29,6 +29,7 @@
 
 ## Starting a Print:
 
+- Make a final check that a build plate is in place
 - Navigate and start print, monitor initial layers, and cancel if issues arise.
 
 ## Removing a Print:
@@ -37,4 +38,4 @@
 
 ## Post-print Housekeeping:
 
-- Unload filament, record weight, load Hackspace PLA, turn off printer, pay if needed, and return tools.
+- Unload filament, record weight, load Hackspace PLA, pay if needed, and return tools.
