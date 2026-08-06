@@ -1,15 +1,36 @@
-# Overview
+# FDM 3D Printing
 
-[3D Printer induction checklist](https://drive.google.com/file/d/1-YUpSXcf9aK-DJKqVsGbCb0hIGlQevt3/view?usp=sharing)
+HacMan provides five FDM printers for members who have completed the [self-induction](induction.md):
 
-### List of Printers
+<figure>
+  <img src="images/fdm-printer-area-overview.jpg" alt="HacMan FDM printer area">
+  <figcaption>The HacMan FDM printer area.</figcaption>
+</figure>
 
-- [Prusa MK4's](prusa_mk4.md)
-- [Bambu P2S](prusa_xl4.md)
-- [Bambu P1S](Bambu_p1s.md)
-- Resin Printer (Bob Jr.) Elegoo Mars Pro
+- 2 × Prusa MK4
+- 2 × Bambu Lab P2S with AMS 2 Pro
+- 1 × Bambu Lab P1S with AMS 2 Pro
 
-### Risk Assessments
+All use 1.75 mm filament and hardened nozzles.
 
-- [3D Printer Risk Assessment](https://docs.google.com/document/d/13F_mqEcwl8jpON4T8a-jdl3WKjYoNxzUKGc_Y5eh38M/edit?usp=sharing).
-- [Resin Printer Risk Assessment](https://docs.google.com/document/d/1gsu6xQNcerGyQyBi3ieNdV3jo-cZCiJkW5b1et0ysE4/edit?usp=sharing)
+## Become an inducted user
+
+1. Read the [FDM Self-Induction Handbook](induction.md).
+2. Complete the online assessment.
+3. Achieve 100%.
+
+No routine face-to-face sign-off is required. Ask an experienced member if you would like help with your first print.
+
+## Start here
+
+- [Self-Induction Handbook](induction.md)
+- [Printer Rules](printer_rules.md)
+- [Getting Started](getting_started.md)
+- [Filament Guide](filament.md)
+- [Using the Prusa MK4](prusa_mk4.md)
+- [Using the Bambu P1S and P2S](bambu_p1s_p2s.md)
+- [Using the AMS 2 Pro](ams2pro.md)
+- [Connect Your Computer to the Printers](connecting.md)
+- [Troubleshooting](troubleshooting.md)
+- [PrusaSlicer beginner guide](prusaslicer.md)
+- [Bambu Studio beginner guide](bambu_studio.md)

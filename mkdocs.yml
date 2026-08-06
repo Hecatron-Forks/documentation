@@ -75,7 +75,7 @@ plugins:
         'Workshop_Areas/3D-Printers/Induction.md': 'equipment/3d_printers/induction.md'
         'Workshop_Areas/3D-Printers/Overview.md': 'equipment/3d_printers/overview.md'
         'Workshop_Areas/3D-Printers/PrusaMK4.md': 'equipment/3d_printers/prusa_mk4.md'
-        'Workshop_Areas/3D-Printers/PrusaXL4.md': 'equipment/3d_printers/prusa_xl4.md'
+        'Workshop_Areas/3D-Printers/PrusaXL4.md': 'equipment/3d_printers/overview.md'
         'Workshop_Areas/CNC/Chunky CNC/Feeds and Speeds.md': 'equipment/cnc/chunky_cnc/feeds_and_speeds.md'
         'Workshop_Areas/CNC/Chunky CNC/Reference Terms.md': 'equipment/cnc/chunky_cnc/reference_terms.md'
         'Workshop_Areas/CNC/Consumables.md': 'equipment/cnc/consumables.md'
