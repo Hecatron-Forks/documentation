@@ -27,8 +27,8 @@ Stay beside the printer until the first layer has completed successfully. After 
 - Never refit a wet plate.
 - Flex it gently and point it away from people.
 
-<figure>
-  <img src="images/fdm-build-plate-lift-off.jpg" alt="Removing the flexible build plate">
+<figure markdown="1">
+  ![Removing the flexible build plate](images/fdm-build-plate-lift-off.jpg)
   <figcaption>Remove the flexible build plate before cleaning it or flexing it.</figcaption>
 </figure>
 
@@ -43,8 +43,8 @@ Stay beside the printer until the first layer has completed successfully. After 
 - Flexible filaments must not be used in the AMS 2 Pro unless the filament is specifically labelled as suitable for AMS use.
 - Secure the loose end of every removed spool before storage.
 
-<figure>
-  <img src="images/fdm-filament-end-secured-for-storage.jpg" alt="Filament end secured in spool holes">
+<figure markdown="1">
+  ![Filament end secured in spool holes](images/fdm-filament-end-secured-for-storage.jpg)
   <figcaption>Secure the free end of filament before storage to prevent tangles.</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Stay beside the printer until the first layer has completed successfully. After 
 
 Remove your print and waste, return tools, leave the plate clean and correctly fitted, secure filament ends, pay for Hackspace filament and report faults. Leave everything ready for the next member.
 
-<figure>
-  <img src="images/fdm-snackspace-till-area.jpg" alt="Snackspace till area">
+<figure markdown="1">
+  ![Snackspace till area](images/fdm-snackspace-till-area.jpg)
   <figcaption>Pay for Hackspace filament through the Snackspace tuck shop.</figcaption>
 </figure>

@@ -10,8 +10,8 @@
 >
 > **[Start the Self-Induction Quiz](https://forms.gle/pGwzDXJ5jYph236w7)**
 
-<figure>
-  <img src="images/fdm-printer-area-overview.jpg" alt="HacMan FDM printer area">
+<figure markdown="1">
+  ![HacMan FDM printer area](images/fdm-printer-area-overview.jpg)
   <figcaption>The HacMan FDM printer area.</figcaption>
 </figure>
 
@@ -47,23 +47,23 @@ HacMan provides:
 
 All use 1.75 mm filament and hardened nozzles. Most instructions apply to every printer; model-specific differences are identified where necessary.
 
-<figure>
-  <img src="images/fdm-prusa-mk4-front.jpg" alt="Prusa MK4 FDM printer">
+<figure markdown="1">
+  ![Prusa MK4 FDM printer](images/fdm-prusa-mk4-front.jpg)
   <figcaption>One of the HacMan Prusa MK4 printers.</figcaption>
 </figure>
 
-<figure>
-  <img src="images/fdm-bambu-p2s-ams-front.jpg" alt="Bambu P2S with AMS 2 Pro">
+<figure markdown="1">
+  ![Bambu P2S with AMS 2 Pro](images/fdm-bambu-p2s-ams-front.jpg)
   <figcaption>A HacMan Bambu P2S fitted with an AMS 2 Pro.</figcaption>
 </figure>
 
-<figure>
-  <img src="images/fdm-bambu-p1s-ams-front.jpg" alt="Bambu P1S with AMS 2 Pro">
+<figure markdown="1">
+  ![Bambu P1S with AMS 2 Pro](images/fdm-bambu-p1s-ams-front.jpg)
   <figcaption>The HacMan Bambu P1S fitted with an AMS 2 Pro.</figcaption>
 </figure>
 
-<figure>
-  <img src="images/fdm-prusa-mk4-anatomy-numbered.jpg" alt="Numbered photograph of a Prusa MK4 showing key printer parts">
+<figure markdown="1">
+  ![Numbered photograph of a Prusa MK4 showing key printer parts](images/fdm-prusa-mk4-anatomy-numbered.jpg)
   <figcaption>Key parts of a Prusa MK4. The Bambu printers look different, but the same basic ideas apply.</figcaption>
 </figure>
 
@@ -92,13 +92,13 @@ All use 1.75 mm filament and hardened nozzles. Most instructions apply to every 
 
 ⚠ **Warning:** The nozzle may reach about 290°C and the heated build plate may reach about 120°C. Never touch the nozzle, avoid touching a hot plate and remember that freshly extruded plastic is hot.
 
-<figure>
-  <img src="images/fdm-prusa-mk4-nozzle-closeup.jpg" alt="Close-up of a Prusa MK4 nozzle">
+<figure markdown="1">
+  ![Close-up of a Prusa MK4 nozzle](images/fdm-prusa-mk4-nozzle-closeup.jpg)
   <figcaption>The nozzle is one of the hottest parts of the printer. Do not touch it.</figcaption>
 </figure>
 
-<figure>
-  <img src="images/fdm-prusa-mk4-hot-build-plate.jpg" alt="Prusa MK4 heated build plate">
+<figure markdown="1">
+  ![Prusa MK4 heated build plate](images/fdm-prusa-mk4-hot-build-plate.jpg)
   <figcaption>The build plate can also become hot during printing.</figcaption>
 </figure>
 
@@ -114,8 +114,8 @@ All use 1.75 mm filament and hardened nozzles. Most instructions apply to every 
 
 ⚠ **Warning:** Plastic or support material may release suddenly when a spring-steel plate is flexed. Remove the plate from the printer and flex it away from yourself and other people. Consider eye protection for a stubborn print.
 
-<figure>
-  <img src="images/fdm-build-plate-flex-up.jpg" alt="Build plate being flexed to release a print">
+<figure markdown="1">
+  ![Build plate being flexed to release a print](images/fdm-build-plate-flex-up.jpg)
   <figcaption>Remove the flexible build plate from the printer before flexing it to release a print.</figcaption>
 </figure>
 
@@ -159,18 +159,18 @@ For a deeper clean, wash the removed plate with warm water and washing-up liquid
 
 ⚠ **Warning:** Do not clean a plate while it is fitted to the printer and never refit it while wet.
 
-<figure>
-  <img src="images/fdm-build-plate-cleaning-ipa-off-printer.jpg" alt="Cleaning a removed build plate with IPA">
+<figure markdown="1">
+  ![Cleaning a removed build plate with IPA](images/fdm-build-plate-cleaning-ipa-off-printer.jpg)
   <figcaption>Clean build plates after removing them from the printer. Apply IPA to the plate or cloth, not to the printer.</figcaption>
 </figure>
 
-<figure>
-  <img src="images/fdm-build-plate-drying-blue-roll.jpg" alt="Drying a removed build plate">
+<figure markdown="1">
+  ![Drying a removed build plate](images/fdm-build-plate-drying-blue-roll.jpg)
   <figcaption>Always dry the build plate completely before refitting it.</figcaption>
 </figure>
 
-<figure>
-  <img src="images/fdm-clean-vs-dirty-build-plate.jpg" alt="Clean and contaminated build plate comparison">
+<figure markdown="1">
+  ![Clean and contaminated build plate comparison](images/fdm-clean-vs-dirty-build-plate.jpg)
   <figcaption>Fingerprints and grease can stop prints sticking properly. Clean the plate before printing.</figcaption>
 </figure>
 
@@ -211,23 +211,23 @@ To unload filament from the AMS, use the printer or Bambu Studio unload function
 
 Remove personal filament from the printer after use. Take it home or put it in your personal storage area if you have one; do not leave it on a printer or in the shared filament area.
 
-<figure>
-  <img src="images/fdm-prusa-mk4-filament-entering-extruder.jpg" alt="Filament entering the Prusa MK4 extruder">
+<figure markdown="1">
+  ![Filament entering the Prusa MK4 extruder](images/fdm-prusa-mk4-filament-entering-extruder.jpg)
   <figcaption>Filament entering the Prusa MK4 extruder.</figcaption>
 </figure>
 
-<figure>
-  <img src="images/fdm-ams2pro-spools-loaded-correctly.jpg" alt="AMS 2 Pro loaded with spools">
+<figure markdown="1">
+  ![AMS 2 Pro loaded with spools](images/fdm-ams2pro-spools-loaded-correctly.jpg)
   <figcaption>Spools should sit correctly in the AMS and rotate freely.</figcaption>
 </figure>
 
-<figure>
-  <img src="images/fdm-tpu-cardboard-spool-not-for-ams.jpg" alt="TPU cardboard spool labelled not for AMS">
+<figure markdown="1">
+  ![TPU cardboard spool labelled not for AMS](images/fdm-tpu-cardboard-spool-not-for-ams.jpg)
   <figcaption>Do not use bare cardboard spools in the AMS. TPU should only be used in the AMS if it is specifically suitable for AMS use.</figcaption>
 </figure>
 
-<figure>
-  <img src="images/fdm-filament-end-secured-for-storage.jpg" alt="Filament end secured in a spool">
+<figure markdown="1">
+  ![Filament end secured in a spool](images/fdm-filament-end-secured-for-storage.jpg)
   <figcaption>Secure the free end of every removed spool before storing it.</figcaption>
 </figure>
 
@@ -248,18 +248,18 @@ Stop the print if:
 
 Once the first layer is successful, you may use other parts of the Hackspace, but a competent member must remain present and the print should be checked periodically.
 
-<figure>
-  <img src="images/fdm-good-first-layer.png" alt="Good first layer example">
+<figure markdown="1">
+  ![Good first layer example](images/fdm-good-first-layer.png)
   <figcaption>A good first layer has smooth, continuous lines attached to the build plate.</figcaption>
 </figure>
 
-<figure>
-  <img src="images/fdm-poor-first-layer.jpg" alt="Poor first layer example">
+<figure markdown="1">
+  ![Poor first layer example](images/fdm-poor-first-layer.jpg)
   <figcaption>Stop the print if the first layer is not sticking or is dragging badly.</figcaption>
 </figure>
 
-<figure>
-  <img src="images/fdm-spaghetti-failure.png" alt="Spaghetti print failure">
+<figure markdown="1">
+  ![Spaghetti print failure](images/fdm-spaghetti-failure.png)
   <figcaption>A spaghetti failure should be stopped promptly. Do not leave it to continue.</figcaption>
 </figure>
 
@@ -271,18 +271,18 @@ If a scraper is needed, use a plastic scraper only. Do not use metal scrapers on
 
 If the print remains stuck, allow more cooling and ask for help. Remove loose plastic, check that the plate is clean and dry, and refit it squarely while keeping fingers clear of the magnets.
 
-<figure>
-  <img src="images/fdm-build-plate-lift-off.jpg" alt="Lifting a removable build plate from the printer">
+<figure markdown="1">
+  ![Lifting a removable build plate from the printer](images/fdm-build-plate-lift-off.jpg)
   <figcaption>Remove the flexible build plate before trying to release the print.</figcaption>
 </figure>
 
-<figure>
-  <img src="images/fdm-build-plate-flex-down.jpg" alt="Flexing a build plate to release a print">
+<figure markdown="1">
+  ![Flexing a build plate to release a print](images/fdm-build-plate-flex-down.jpg)
   <figcaption>Flex the plate gently, pointing it away from yourself and other people.</figcaption>
 </figure>
 
-<figure>
-  <img src="images/fdm-bambu-build-plate-fitting-removal-lifted.jpg" alt="Bambu build plate being refitted">
+<figure markdown="1">
+  ![Bambu build plate being refitted](images/fdm-bambu-build-plate-fitting-removal-lifted.jpg)
   <figcaption>Refit the build plate squarely and make sure it is seated correctly before printing.</figcaption>
 </figure>
 
@@ -299,8 +299,8 @@ Before leaving:
 
 Hackspace filament costs **4p per gram**. Pay through the Snackspace tuck shop for all Hackspace filament used, including failed or cancelled prints.
 
-<figure>
-  <img src="images/fdm-snackspace-till-area.jpg" alt="Snackspace till area">
+<figure markdown="1">
+  ![Snackspace till area](images/fdm-snackspace-till-area.jpg)
   <figcaption>Pay for Hackspace filament through the Snackspace tuck shop.</figcaption>
 </figure>
 
@@ -308,8 +308,8 @@ Hackspace filament costs **4p per gram**. Pay through the Snackspace tuck shop f
 
 Pause or cancel the print. Do not force filament, axes or AMS parts, and do not dismantle equipment. Read any displayed error, then ask an experienced member or report the fault if the solution is not part of the basic procedure in this handbook.
 
-<figure>
-  <img src="images/fdm-nozzle-filament-build-up-examples.jpg" alt="Filament build-up around a nozzle">
+<figure markdown="1">
+  ![Filament build-up around a nozzle](images/fdm-nozzle-filament-build-up-examples.jpg)
   <figcaption>If filament builds up around the nozzle or print head, stop and ask for help.</figcaption>
 </figure>
 

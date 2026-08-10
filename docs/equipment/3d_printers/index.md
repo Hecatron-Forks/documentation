@@ -2,8 +2,8 @@
 
 HacMan provides five FDM printers for members who have completed the [self-induction](induction.md):
 
-<figure>
-  <img src="images/fdm-printer-area-overview.jpg" alt="HacMan FDM printer area">
+<figure markdown="1">
+  ![HacMan FDM printer area](images/fdm-printer-area-overview.jpg)
   <figcaption>The HacMan FDM printer area.</figcaption>
 </figure>
 

@@ -6,8 +6,8 @@ This page covers checks inducted members may perform without dismantling or adju
 
 Stop the print. Remove and clean the build plate, dry it completely, refit it correctly and confirm that the slicer used the right printer, plate and material profiles.
 
-<figure>
-  <img src="images/fdm-poor-first-layer.jpg" alt="Poor first layer example">
+<figure markdown="1">
+  ![Poor first layer example](images/fdm-poor-first-layer.jpg)
   <figcaption>A poor first layer should be stopped and investigated before trying again.</figcaption>
 </figure>
 
@@ -15,13 +15,13 @@ Stop the print. Remove and clean the build plate, dry it completely, refit it co
 
 Stop the print. Do not push a moving print back onto the plate. If plastic has collected around the nozzle or print head, stop using the printer and ask for help.
 
-<figure>
-  <img src="images/fdm-spaghetti-failure.png" alt="Spaghetti failure on a 3D printer">
+<figure markdown="1">
+  ![Spaghetti failure on a 3D printer](images/fdm-spaghetti-failure.png)
   <figcaption>Spaghetti failures should be stopped promptly.</figcaption>
 </figure>
 
-<figure>
-  <img src="images/fdm-nozzle-filament-build-up-examples.jpg" alt="Filament build-up around a nozzle">
+<figure markdown="1">
+  ![Filament build-up around a nozzle](images/fdm-nozzle-filament-build-up-examples.jpg)
   <figcaption>If filament builds up around the nozzle or print head, stop and ask for help.</figcaption>
 </figure>
 
@@ -37,8 +37,8 @@ Confirm the spool rotates and no visible external obstruction exists. Do not pul
 
 Pause or cancel the job, note or photograph the message and report the fault. Do not repeatedly restart a printer that continues to error.
 
-<figure>
-  <img src="images/fdm-prusa-mk4-out-of-order-sign.jpg" alt="Out-of-order sign on a Prusa MK4">
+<figure markdown="1">
+  ![Out-of-order sign on a Prusa MK4](images/fdm-prusa-mk4-out-of-order-sign.jpg)
   <figcaption>Do not use printers marked out of service.</figcaption>
 </figure>
 
