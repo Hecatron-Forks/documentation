@@ -1,6 +1,6 @@
 title: 3D Printers (FDM)
 nav:
-  - Overview: overview.md
+  - Overview: index.md
   - Self-Induction Handbook: induction.md
   - Printer Rules: printer_rules.md
   - Getting Started: getting_started.md
