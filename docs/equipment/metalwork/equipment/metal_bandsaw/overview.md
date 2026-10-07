@@ -4,6 +4,14 @@ The bandsaw is a Clarke CBS45MD, a convertable horizontal / vertical
 bandsaw, designed for cutting metal bar, rod and tube down to length. It
 has a 1/2hp 370w motor, and is commonly fitted with a 14TPI blade.
 
+  * Can cut mitres from 90°- 45°
+  * Cutting capacity - 110mm round, 100mm flat at 90°
+  * Quick change horizontal or vertical operating positions with saw table included
+  * 370W (0.5hp) motor with combined ON/OFF & safety No-Volt-Release switch
+  * 3 cutting speeds 20/29/50 metres per minute with spring tension arm control & adjustable vice for cutting angles 90 degrees - 45 degrees
+  * Handle & twin wheels for workshop mobility
+  * Dims: 1100x960x1500mm
+
 ![Overview1](images/overview1.jpg)
 
 ## Manual
